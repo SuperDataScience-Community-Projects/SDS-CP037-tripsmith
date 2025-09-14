@@ -1,0 +1,4 @@
+gradio
+openai
+tavily-python
+python-dotenv
