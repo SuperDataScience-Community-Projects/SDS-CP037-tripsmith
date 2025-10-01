@@ -37,3 +37,10 @@ notebook
 # Optional: Data connectors
 # sqlalchemy
 # openpyxl
+
+# --- App dependencies for Advanced/Week 3 Streamlit Space ---
+streamlit>=1.33.0
+# Official Tavily Python client
+tavily-python>=0.3.5
+# For running on Spaces (optional but common)
+python-dotenv>=1.0.1

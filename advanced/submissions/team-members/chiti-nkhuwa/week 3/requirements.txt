@@ -1,0 +1,23 @@
+# Web app
+streamlit>=1.28.0
+
+# Async API calls and HTTP requests
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# Logging
+loguru>=0.7.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Type hints / utilities
+typing-extensions>=4.8.0
+
+# Optional: for testing and formatting
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Tavily Python SDK (import as `from tavily import TavilyClient`)
+tavily-python>=0.3.5
