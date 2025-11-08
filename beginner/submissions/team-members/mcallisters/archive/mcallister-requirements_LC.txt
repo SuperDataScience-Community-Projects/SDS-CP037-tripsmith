@@ -13,5 +13,16 @@ pathlib
 # Loads environment variables from a .env file into the application, useful for managing configuration settings securely
  dotenv
 
+# Import LangChain and Pydantic libraries
+langchain_openai 
 
+ChatOpenAI
+
+langchain_core.prompts
+
+ChatPromptTemplate
+
+langchain_core.pydantic_v1 
+
+BaseModel, Field
 

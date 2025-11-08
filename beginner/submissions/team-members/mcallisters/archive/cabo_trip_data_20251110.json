@@ -1,0 +1,323 @@
+{
+  "flights_tavily": [
+    {
+      "name": "Find Cheap Flights from San Francisco to Cabo San Lucas",
+      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-cabo-san-lucas.html?gl=US&hl=en-US",
+      "snippet": "The cheapest Southwest flight from San Francisco to Cabo San Lucas is $315, flying from Nov 14 to Nov 20.\n The cheapest Aeromexico flight from San Francisco to Cabo San Lucas is $301, flying from Nov 13 to Nov 19. [...] The cheapest round-trip flight from San Francisco to Cabo San Lucas starts at $301 from Thu, Nov 13 to Wed, Nov 19. The cheapest one-way flight starts at $129 and departs on Thu, Nov 13.\n\nWhen should you fly to Cabo San Lucas, Mexico? [...] |  |  |  |  |  |\n ---  --- \n| Cheapest round-trip flights | $301 | Aeromexico 1 stop 18 hr Nov 13 — Nov 19 | The cheapest round-trip flight from San Francisco to Cabo San Lucas is currently $301 |  |\n| Cheapest one-way flight | $129 | Aeromexico 1 stop 18 hr Nov 13 | The cheapest one-way flight from San Francisco to Cabo San Lucas is currently $129 |  |\n| Fastest flight | 3 hr 7 min | The fastest nonstop flight from San Francisco to Cabo San Lucas takes 3 hr 7 min |",
+      "price": 315.0,
+      "airline": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "Find cheap flights to Cabo San Lucas (SJD)",
+      "url": "https://www.aa.com/en-us/flights-to-san-jose-del-cabo",
+      "snippet": "San Francisco (SFO)to\n\n  Cabo San Lucas (SJD)\n\n  11/24/25 - 11/29/25\n\n  from\n\n  $925\\Fare subject to changes\n\n  Updated: 23 hours ago\n\n  Round trip\n\n  I\n\n  Economy\n\n  San Diego (SAN)to\n\n  Cabo San Lucas (SJD)\n\n  10/21/25 - 10/26/25\n\n  from\n\n  $477\\Fare subject to changes\n\n  Updated: 7 hours ago\n\n  Round trip\n\n  I\n\n  Economy\n Reno (RNO)to\n\n  Cabo San Lucas (SJD)\n\n  11/16/25 - 11/23/25\n\n  from\n\n  $365\\Fare subject to changes\n\n  Updated: 4 hours ago\n\n  Round trip\n\n  I\n\n  Economy [...] Los Angeles (LAX)to\n\n  Cabo San Lucas (SJD)\n\n  11/15/25 - 11/19/25\n\n  from\n\n  $305\\Fare subject to changes\n\n  Updated: 5 hours ago\n\n  Round trip\n\n  I\n\n  Economy\n\n  Phoenix (PHX)to\n\n  Cabo San Lucas (SJD)\n\n  10/06/25 - 10/10/25\n\n  from\n\n  $367\\Fare subject to changes\n\n  Updated: 22 hours ago\n\n  Round trip\n\n  I\n\n  Economy\n\n  Chicago (ORD)to\n\n  Cabo San Lucas (SJD)\n\n  10/28/25 - 11/03/25\n\n  from\n\n  $431\\Fare subject to changes\n\n  Updated: 2 hours ago\n\n  Round trip\n\n  I [...] Raleigh (RDU)to\n\n  Cabo San Lucas (SJD)\n\n  11/12/25 - 11/17/25\n\n  from\n\n  $495\\Fare subject to changes\n\n  Updated: 9 hours ago\n\n  Round trip\n\n  I\n\n  Economy",
+      "price": 925.0,
+      "airline": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "Cheap Flights from San Francisco to Cabo San Lucas",
+      "url": "https://www.united.com/en-us/flights-from-san-francisco-to-san-jose-del-cabo",
+      "snippet": "Viewed: 9 hours ago\n\nRoundTrip|Economy\n\nNov 2025\n\nFrom$ 301\\\n\nViewed: 9 hours ago\n\nRoundTrip|Economy\n\nDec 2025\n\nFrom$ 301\\\n\nViewed: 9 hours ago\n\nRoundTrip|Economy\n\nJan 2026\n\nFrom$ 306\\\n\nViewed: 5 hours ago\n\nRoundTrip|Economy\n\nFeb 2026\n\nFrom$ 310\\\n\nViewed: 13 hours ago\n\nRoundTrip|Economy\n\nMar 2026\n\nFrom$ 556\\\n\nViewed: 12 hours ago\n\nRoundTrip|Economy\n\nApr 2026\n\nFrom$ 472\\\n\nViewed: 13 hours ago\n\nRoundTrip|Economy\n\nMay 2026\n\nFrom$ 426\\\n\nViewed: 21 hours ago\n\nRoundTrip|Economy\n\nJun 2026\n\nFrom$ 440\\ [...] Range$ 301-$ 514\n\n## Explore United Airlines's Top-Pick Destinations [...] Cookie Policy\n\nSkip to content-Skip to footer\n\n# Flights from San Francisco to Cabo San Lucas from $ 301\\\n\nexpand\\_more\n\nexpand\\_more\n\nexpand\\_more\n\nexpand\\_more\n\ntoday\n\ntoday\n\nChanged bag rules and optional services         Cruise open\\_in\\_new  Packages open\\_in\\_new\n\n## Featured daily fares for flights from San Francisco (SFO) to Cabo San Lucas (SJD)\n\nexpand\\_more\n\nlocation\\_on\n\nlocation\\_on\n\nSep 2025\n\nFrom$ 390\\\n\nViewed: 9 hours ago\n\nRoundTrip|Economy\n\nOct 2025\n\nFrom$ 301\\",
+      "price": null,
+      "airline": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "Find cheap flights from San Francisco (SFO) to Cabo ...",
+      "url": "https://www.aa.com/en-us/flights-from-san-francisco-to-san-jose-del-cabo",
+      "snippet": "Find cheap flights from San Francisco (SFO) to Cabo San Lucas (SJD) | American Airlines\n\nSkip to content-Skip to footer\n\n# American Airlines flights from San Francisco to Cabo San Lucas\n\nexpand\\_more\n\nexpand\\_more\n\nexpand\\_more\n\ntoday\n\ntoday\n\n## Recent searches for flights from San Francisco to Cabo San Lucas\n\nlocation\\_on\n\nlocation\\_on\n\nSep 2025\n\nFrom$414\\\n\nUpdated: 7 hours ago\n\nRound tripIEconomy\n\nOct 2025\n\nFrom$325\\\n\nUpdated: 7 hours ago\n\nRound tripIEconomy\n\nNov 2025\n\nFrom$325\\",
+      "price": 414.0,
+      "airline": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "Cheap Flights from San Francisco International (SFO) to ...",
+      "url": "https://www.skyscanner.com/routes/sfo/sjd/san-francisco-international-to-los-cabos-international.html",
+      "snippet": "Flight dealsCheapest monthFind the best routeRoute infoFAQsTips and advice\n\nSan José del Cabo.$109 per passenger.Departing Tue, Nov 18.One-way flight with Alaska Airlines.Outbound direct flight with Alaska Airlines departing from San Francisco International on Tue, Nov 18, arriving in Los Cabos International.Price includes taxes and charges.From $109, select.\n\nTue, Nov 18SFO – SJD with Alaska Airlines\n\nDirect\n\nfrom $109 [...] $109 is currently the lowest price for a one-way San Francisco International Airport to Los Cabos International Airport flight. A return flight starts at $265. These prices may change based on availability.\n Book ten months before you want to fly. After crunching the numbers on our calendar, this is how far you should book ahead to secure cheap tickets from SFO to SJD. [...] San José del Cabo.$109 per passenger.Departing Mon, Dec 8.One-way flight with Alaska Airlines.Outbound direct flight with Alaska Airlines departing from San Francisco International on Mon, Dec 8, arriving in Los Cabos International.Price includes taxes and charges.From $109, select.\n\nMon, Dec 8SFO – SJD with Alaska Airlines\n\nDirect\n\nfrom $109",
+      "price": 109.0,
+      "airline": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    }
+  ],
+  "hotels_tavily": [
+    {
+      "name": "Cabo San Lucas Vacation Packages 2025/2026 from ... - Expedia",
+      "url": "https://www.expedia.com/Cabo-San-Lucas.d180032.Destination-Travel-Guides",
+      "snippet": "10/10\n Exceptional! (8 reviews)\n\nFrom the moment we arrived, the host went above and beyond to make sure we were comfortable and had everything we needed. So friendly, responsive, and truly accommodating . The property itself was breathtaking and beach club was an extra plus.\n\nReviewed on Jun 30, 2025\n\n### Krystal Grand Los Cabos - All inclusive\n\n4 out of 5\n\nCosta Azul\n\nPrice was $2,857, price is now $1,181 per person\n\n$1,181\n\nper person\n\nNov 12 - Nov 18\n\nfound 1 day ago [...] Great friendly and attentive staff. Service at all facilities and restaurants was a wonderful experience.\nI appreciated the spacious feel of the 2 bedroom villa, it was perfect for our family of 4.\nI will definitely be recommending this resort to family and friends.\n\nReviewed on Aug 24, 2025\n\n### Pueblo Bonito Montecristo Luxury Villas - All Inclusive\n\n4.5 out of 5\n\nParaiso Escondido\n\nPrice was $5,650, price is now $2,391 per person\n\n$2,391\n\nper person\n\nNov 12 - Nov 19\n\nfound 1 day ago [...] #### Cabo San Lucas: Camel Ride & Off-Road UTV Combo Adventure\n\n$109\n\nper adult\n\n74% of travellers recommend\n\nCabo San Lucas: Camel Ride & Off-Road UTV Combo Adventure\n\nSee all activities in Cabo San Lucas\n\n## Cabo San Lucas Hotel Deals\n\n### Hotel Riu Santa Fe - All Inclusive\n\n3.5 out of 5\n\nBahia Cabo san Lucas KM 4.5, Camino Viejo San jose del Cabo, Cabo San Lucas, BCS\n\nGet rates\n\nHotel Riu Santa Fe - All Inclusive\n\n### Hotel Riu Palace Cabo San Lucas - All Inclusive\n\n4 out of 5",
+      "nightly_price": 2857.0,
+      "total_price": 28570.0,
+      "stars": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "25 Best Hotels in Cabo San Lucas for 2025 | U.S. News Travel",
+      "url": "https://travel.usnews.com/hotels/cabo_san_lucas_mexico/",
+      "snippet": "### Villa La Estancia Beach Resort & Spa\n\n  Cabo San Lucas, BCN\n\n  0.9 miles to city center\n\n  5.0-star Hotel Class\n\n  5.0-star Hotel Class\n\n  + Fitness Center\n  + Free Parking\n  + Pools\n\n  View Hotel Profile\n See all photos\n\n  ### Hacienda Beach Club & Residences\n\n  Cabo San Lucas, BCN\n\n  less than 0.1 miles to city center\n\n  $39 Nightly Resort Fee\n\n  5.0-star Hotel Class\n\n  5.0-star Hotel Class\n\n  $39 Nightly Resort Fee\n\n  + Fitness Center\n  + Free Parking\n  + Pools [...] ### 1 Homes Preview Cabo\n\n  Cabo San Lucas, BCN\n\n  5.0-star Hotel Class\n\n  5.0-star Hotel Class\n\n  View Hotel Profile\n See all photos\n\n  ### Hilton Los Cabos\n\n  San José del Cabo, BCN\n\n  11.3 miles to city center\n\n  10% of room rate Nightly Resort Fee\n\n  5.0-star Hotel Class\n\n  5.0-star Hotel Class\n\n  10% of room rate Nightly Resort Fee\n\n  + Business Center\n  + Fitness Center\n  + Free Parking\n\n  View Hotel Profile\n See all photos\n\n  ### Grand Solmar Land's End Resort & Spa [...] 5.0-star Hotel Class\n\n  + Business Center\n  + Fitness Center\n  + Free Parking\n\n  View Hotel Profile\n See all photos\n\n  ### Four Seasons Resort Los Cabos at Costa Palmas\n\n  La Ribera, BCN\n\n  53.9 miles to city center\n\n  15% of room rate Nightly Resort Fee\n\n  5.0-star Hotel Class\n\n  5.0-star Hotel Class\n\n  15% of room rate Nightly Resort Fee\n\n  + Fitness Center\n  + Free Parking\n  + Pets Allowed\n\n  View Hotel Profile\n See all photos\n\n  ### Marquis Los Cabos, Resort & Spa - Adults Only",
+      "nightly_price": 39.0,
+      "total_price": 390.0,
+      "stars": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "4-Star Hotels in Cabo San Lucas - Tripadvisor",
+      "url": "https://www.tripadvisor.com/Hotels-g152515-zfc4-Cabo_San_Lucas_Los_Cabos_Baja_California-Hotels.html",
+      "snippet": "THE 10 BEST Cabo San Lucas 4 Star Hotels 2025 (with Prices) - Tripadvisor\n\nImage 1: Advertisement\n\nSkip to main content\n\nImage 2: Tripadvisor\n\nRewards\n\nDiscover\n\nTrips\n\nReview\n\nUSDSign in\n\nCabo San LucasHotelsThings to DoRestaurantsFlightsCruisesVacation RentalsForums\n\nMexico\n\nBaja California\n\nBaja California Sur\n\nLos Cabos\n\nCabo San Lucas\n\nCabo San Lucas Hotels\n\n4-Star Hotels in Cabo San Lucas\n\nTHE 10 BEST Cabo San Lucas 4 Star Hotels\n\nYour travel questions, answered [...] Popular RyokanPopular Cheap ResortsPopular CampgroundsPopular Honeymoon ResortsPopular Ski ResortsPopular Luxury HotelsPopular Family ResortsPopular Spa HotelsPopular Adults Only All-Inclusive ResortsPopular Romantic Hotels\n\nThings to DoRestaurantsFlightsVacation RentalsTravel StoriesCruisesMore\n\nToursAdd a PlaceTravel ForumAirlinesTravelers' ChoiceHelp CenterTrip Planner\n\nImage 155: Tripadvisor\n\n© 2025 Tripadvisor LLC All rights reserved. [...] Grand Park Hotel Rovinj by Maistra CollectionExplorers Hotel at Disneyland ParisBest Western Plus Hacienda Hotel Old TownRixos Bab Al BahrDomes of Elounda, Autograph CollectionWarwick San FranciscoAlaia Belize, Autograph CollectionMagda Hotel ClubLa Mariposa HotelConrad Koh SamuiHoliday Inn Express New York City Times Square By IHGParkview Inn & Suites Lancaster, Lancaster PaParamount Hotel DubaiHyatt Regency SacramentoSol Duc Hot Springs Resort\n\nPopular Hotel Categories",
+      "nightly_price": null,
+      "total_price": null,
+      "stars": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "Cabo San Lucas Vacation Packages 2025/2026 from ... - Travelocity",
+      "url": "https://www.travelocity.com/Cabo-San-Lucas.d180032.Destination-Travel-Guides",
+      "snippet": "Paraiso Escondido: Enjoy a break from the city during a day out at Cerro de la Z. When you've had enough of the outdoors, slide into a comfortable bed at the Pueblo Bonito Sunset Beach Junior 4.5-star Resort Ocean View, the Montecristo Estate by Pueblo Bonito or the Beautiful Sunset Beach! Oceanview Luxury Suites, Stay 7 Nights for $129/night!. [...] Pedregal: There's lots to do here! If you can't wait to really get to know the area, check out Playa Las Viudas, Las Californias Museum and Cerro de la Z. Well-known places to stay here include the 6 BR Pacific View Home 10 Mins to Cabo Beach & Marina, the Casa Stella, Cabo San Lucas, Pedregal - Pacific and the Pueblo Bonito Sunset Beach Jr. Suite Cabo San Lucas 5 Star Resort. [...] That would be Los Cabos Intl. Airport (SJD), roughly 25 mi northeast of central Cabo San Lucas.\n\nWhat is there to do in Cabo San Lucas?\n\nCabo San Lucas is brimming with sights to explore, including The Arch and Land's End. These two popular attractions top most people's travel itineraries.\n\nWhere should I stay when visiting Cabo San Lucas?\n\nIf you're after someplace comfortable to base yourself, have a look at the Riu Santa Fe. It's the top pick for many travelers.",
+      "nightly_price": 129.0,
+      "total_price": 1290.0,
+      "stars": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "name": "Search hotels in Cabo San Lucas - Mexico - Booking.com's",
+      "url": "https://www.booking.com/city/mx/san-lucas.html",
+      "snippet": "On average, 3-star hotels in Cabo San Lucas cost $85 per night, and 4-star hotels in Cabo San Lucas are $124 per night. If you're looking for something really special, a 5-star hotel in Cabo San Lucas can be found for $454 per night, on average (based on Booking.com prices). [...] On average, it costs $151 per night to book a 3-star hotel in Cabo San Lucas for tonight. You'll pay around $193 if you choose to stay in a 4-star hotel tonight, while a 5-star hotel in Cabo San Lucas will cost around $714, on average (based on Booking.com prices).\n\nMany families visiting Cabo San Lucas loved staying at 1 Homes Preview Cabo, Donjuan By Melida Hotel, and Live Aqua Private Residences Los Cabos.",
+      "nightly_price": 85.0,
+      "total_price": 850.0,
+      "stars": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    }
+  ],
+  "cars_tavily": [
+    {
+      "company": "Car rental in Cabo San Lucas",
+      "url": "https://www.booking.com/cars/city/mx/san-lucas.html",
+      "snippet": "Based on the average daily cost of $35, a week will cost about $247.\n\nBased on the average daily cost of $35, a month will cost about $1,058.\n\nMedium is the most popular car group to rent in Cabo San Lucas, followed by large and SUV.\n\nOn average, renting Medium car in Cabo San Lucas costs $28 per day.\n\nOn average, renting Large car in Cabo San Lucas costs $36 per day.\n\nOn average, renting SUV in Cabo San Lucas costs $60 per day. [...] # Car rental in Cabo San Lucas\n\nGreat cars at great prices from the biggest rental companies\n\n## Car rental companies in and around Cabo San Lucas\n\nKeddy By Europcar\n\n## Travel more, spend less\n\n### Sign in, save money\n\nSave 10% on select rental cars – just look for the blue Genius label\n\nSign inRegister\n\n## Reasons to book car rentals with Booking.com\n\n ### We’re here for you\n\n  Customer support in over 30 languages\n ### Free cancellation [...] Based on our bookings, there are 8 rental car companies available in Cabo San Lucas, including:\n\n Budget\n Keddy By Europcar\n Alamo\n\nIn the past 6 months, 7 rental companies were offering the cheapest rates for medium car on our site:\n\n Keddy By Europcar for an average daily price of $19\n Fox for an average daily price of $21\n Europcar for an average daily price of $26\n\nThe cheapest time to book a car is within the same week of your trip for an average price of $27 a day.",
+      "daily_price": 35.0,
+      "total_price": 350.0,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Cabo San Lucas car rentals from $5/day - KAYAK",
+      "url": "https://www.kayak.com/Cheap-Cabo-San-Lucas-Car-Rentals.12487.cars.ksp",
+      "snippet": "| S | M | T | W | T | F | S |\n|  |  |  | 1 | 2 | 3 | 4 |\n| 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n| 12 | 13 | 14 | 15 | 16 | 17 | 18 |\n| 19 | 20 | 21 | 22 | 23 | 24 | 25 |\n| 26 | 27 | 28 | 29 | 30 |  | [...] KAYAK and its partners wish to use cookies or similar technologies to store and/or access information on and about your device and process personal data such as your IP address, device identifiers etc., in order to improve your experience on the site, to analyze navigation, to offer and measure personalized advertising, and to facilitate sharing on social networks. We also allow the use of third-party cookies (including those from our advertising partners) on our sites. [...] New Zealand\n Nicaragua\n Norge\n Panamá\n Paraguay\n Perú\n Philippines\n Polska\n Portugal\n Puerto Rico\n República Dominicana\n Romnia\n Suisse (Français)\n Schweiz (Deutsch)\n Singapore\n South Africa\n 대한민국\n Suomi\n Sverige\n 台灣\n Türkiye\n United Arab Emirates\n United Kingdom\n United States (English)\n Estados Unidos (Español)\n Uruguay\n Venezuela\n Vietnam (English)\n Việt Nam (Việt)\n Österreich\n Česká republika\n Україна\n المملكة العربية السعودية (العَرَبِيَّة)\n Saudi Arabia (English)\n ประเทศไทย (ภาษาไทย)",
+      "daily_price": null,
+      "total_price": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Car Rental at Cabo San Lucas Downtown - Alamo Rent a Car",
+      "url": "https://www.alamo.com/en/car-rental-locations/mx/cabo-san-lucas-downtown-kk56.html",
+      "snippet": "Create a reservation fast, easily view or modify upcoming reservations, and get directions to your rental location.\n\nLearn More\n\n© 2025 Enterprise Holdings, Inc. All rights Reserved.\n\n## We Use Cookies To Enhance Your Experience\n\nWe and third parties use cookies and other technologies to operate our site, enhance and personalize your experience, perform analytics, and improve marketing. For more information, visit our Cookie Privacy Policy [...] Authorization Amounts:  \n  $700 - Mini, Economy, Compact, Intermediate, Fullsize and Standard  \n  $900 - Premium  \n  $1,400 - Vans, SUVs, and Specialty [...] Personal Accident Insurance covers ambulance service, doctors, hospitalization and nurses for each passenger in the vehicle, with a maximum limit of $20,000 USD per event.",
+      "daily_price": 700.0,
+      "total_price": 7000.0,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Rental Cars in Cabo San Lucas, Baja CA Sur - Payless Car Rental",
+      "url": "https://www.paylesscar.com/en/locations/mx/cabo-san-lucas/sj5",
+      "snippet": "The security deposit hold amount for damage responsibility is as follows:  \nSLI will be 800, CDW is accepted 600, CDW is declined 2,000  Economy Car (Groups A,O), Compact Car (Groups B,J), Intermediate (Groups C,I) Standard (Group D) Full Size (Group E)\n\nSLI will be 1,200, CDW is accepted 1,000, CDW is declined 2,200  Economy SUV (Group H), Standard SUV (Group F), Full Size SUV (Group K), Premium (Group G) and Pickup (Group L) [...] AMAS:  Asset Monitoring Activation Surcharge:  \nAt the time of rental, the rental agreement will automatically charge the AMAS Surcharge for rental transactions where CDW/LDW is declined.  \nThe cost for AMAS varies from $8.00 USD per day to $12.00 USD per day, depending on the car group. [...] Purchase of CDW is optional and reduces the customer's financial responsibility for damage to the vehicle. The customer's responsibility in case of accident or theft is a minimum of 850 USD, not to exceed 4,500 USD, in addition to a security deposit (see Security Deposit amounts below for amount).  If the value of damages is less than the deductible the customer will pay for the vehicle repair.  Theft, vandalism or damage to parts and accessories are not covered.",
+      "daily_price": 8.0,
+      "total_price": 80.0,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Car rentals in Cabo San Lucas, Baja California Sur - Momondo",
+      "url": "https://www.momondo.com/car-rental/Cabo-San-Lucas-12487",
+      "snippet": "| S | M | T | W | T | F | S |\n|  |  |  | 1 | 2 | 3 | 4 |\n| 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n| 12 | 13 | 14 | 15 | 16 | 17 | 18 |\n| 19 | 20 | 21 | 22 | 23 | 24 | 25 |\n| 26 | 27 | 28 | 29 | 30 |  | [...] Latest deals\n\nVehicle comparison\n\nAgency directory\n\nSign in [...] Store and/or access information on a device\n Personalised advertising and content, advertising and content measurement, audience research and services development\n\nBy dismissing the banner with a click on X, you are agreeing to the use of essential cookies on your device or browser.\n\nSeptember 2025\n\n| S | M | T | W | T | F | S |\n|  |  | 2 | 3 | 4 | 5 |  |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  |  |  |\n\nOctober 2025",
+      "daily_price": null,
+      "total_price": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    }
+  ],
+  "pois_tavily": [
+    {
+      "name": "32 Best Things to Do in Cabo San Lucas (+ what NOT to do)",
+      "url": "https://www.thoroughlytravel.com/things-to-do-cabo-san-lucas/",
+      "snippet": "Don’t have time to read the whole list? Here are the top 5 things to do in Cabo San Lucas:\n\n1. Relax on Medano Beach or Lover’s Beach\n2. Boat trip to Land’s End and see The Arch\n3. Go whale watching along the coast\n4. Snorkel and SCUBA dive at Pelican Rock\n5. Eat local food at a Taqueria\n\n## Cabo San Lucas Map\n\n## Unique things to do in Cabo San Lucas [...] Some of the best things to do in Cabo San Lucas include whale watching, SCUBA diving, and making the most of the impressive local beaches. There is also a plethora of local independent restaurants serving up delicious dishes not to be missed such as tacos and totopos with fresh guacamole. Don’t miss the many churches and stunning galleries, and be sure to pick up a souvenir from an independent artisan.\n\n### What is Cabo San Lucas best known for? [...] You’ve probably seen pictures of The Arch (El Arco) as its image is synonymous with Cabo San Lucas. This unique sea arch is a stunning rock formation, a UNESCO World Heritage Site, and one of the best things to do in Cabo San Lucas. Located in the Land’s End area, the Cabo Arch is only accessible by boat. Instead of taking a busy party boat, opt for an inexpensive water taxi or rent a kayak and paddle out yourself."
+    },
+    {
+      "name": "Cabo Attractions - Visit Los Cabos - Must See & Do in Cabo San ...",
+      "url": "https://www.visitloscabos.travel/things-to-do/attractions/",
+      "snippet": "The Los Cabos area boasts some of the top sightseeing, tourist attractions and points of interest along the Baja California peninsula. Stunning El Arco in Cabo San Lucas is one of the region’s most iconic natural landmarks, and it’s the center from which many fun activities  like whale watching kick off. Visitors on vacation can check any guide map for some of the best tours, historical destinations and other places to visit during their stay in paradise. There are also plenty of free things to [...] do, including snorkeling in Cabo Pulmo Marine Park, exploring the art galleries throughout San José del Cabo and swimming in any of the area’s 22 blue flag designated beaches. All you have to decide is where to go in Los Cabos, and you are guaranteed to be near a must-see attraction."
+    },
+    {
+      "name": "Cabo San Lucas: TOP 10 Things to Do (for first timers) - YouTube",
+      "url": "https://www.youtube.com/watch?v=nAyy7cw4m7c",
+      "snippet": "🏖️ Beach/desert ATV tour (the same one I did):  \n🌊 Cabo Arch, Lovers Beach, and snorkeling tour: \n🐳 Whale watching tour: \n🌅 Sunset sailing w/ open bar: \n🐪 Camel ride & UTV combo tour: \n🚣‍♀️ Cabo Arch via glass-bottom kayak: \n🪂 Parasailing at Medano beach: \n🛥️ Private catamaran cruise: \n🏖️ Balandra Beach full day tour: \n\n🚗 Need a Rental Car? Find the cheapest prices here! – \n\n➡️ Check Out ALL My Gear on Amazon\n\n🎥 Filming Gear: \n✈️ Travel Gear: \n🥾 Hiking Gear: \n\n👀 WATCH my other Cabo videos! [...] also take a short walk to the downtown area to do some souvenir shopping I personally collect a magnet from each place I travel to and I was excited to add cabasan Lucas to the collection and for those who are seeking some nightlife the marina is nearby to several venues such as El squid row or the mandala Club Once upon a time I used to go clubbing a lot but I'm not really into that scene anymore so if anyone has any other recommendations or want to share their experiences please comment [...] # Cabo San Lucas: TOP 10 Things to Do (for first timers)\n## Keanu Travels To\n5370 subscribers\n6155 likes\n\n### Description\n290135 views\nPosted: 8 Mar 2024\nThese are the top 10 best things to do in Cabo San Lucas based on my recent 6-day vacation. \n\nCovering Lands End, El Arco, Medano Beach, and more, this should help you plan your Cabo itinerary with plenty of the top activities and places to see. I hope you can see how a Los Cabos vacation is absolutely worth it."
+    },
+    {
+      "name": "21 Non Touristy Unique Things to Do in Cabo San Lucas - Sally Sees",
+      "url": "https://sallysees.com/unique-things-to-do-in-cabo-san-lucas/",
+      "snippet": "### 3. Lands End and El Arco\n\nThe marketing image for Cabo, El Arco or The Arch is a rock formation in the Lands End area. If you’ve seen photos of Los Cabos, you’ve seen The Arch!\n\nVisiting El Arco is definitely not a unique thing to do in Cabo. In fact, it’s one of the most popular and touristy things to do in the area.\n\nBut I can’t leave it off the list, as it really is a naturally stunning area and no visit to Cabo would be complete without seeing it! [...] - A scenic boat cruise in a glass-bottomed boat takes you from the Marina in Cabo San Lucas out to Lands End. You’ll have time to view and photograph El Arco, as well as other rock formations like Pelican Rock where pelicans and sea lions hang out. You’ll see both beaches from the boat, and the transparent boat means you can watch the fish and marine life underwater. This will take less than an hour and you won’t get off the boat. [...] Cabo sits at the meeting point of the Pacific Ocean and the Sea of Cortez, one of the most diverse marine environments in the world. Deep banks, strong currents and an abundance of fish to feed on make this one of the best places to see a number of unique shark species.\n\nBlue sharks, silky sharks, mako sharks and hammerhead sharks are the most commonly sighted in the area. These species are quite rare and not commonly found in many diving locations.\n\nAnd you can swim with them!"
+    },
+    {
+      "name": "Things To Do In Cabo San Lucas | Pueblo Bonito Resorts",
+      "url": "https://www.pueblobonito.com/best-places-to-stay-in-mexico/things-to-do-in-cabo-san-lucas",
+      "snippet": "Experience the best of all worlds in Cabo San Lucas. From sparkling water and white-sand beaches to world-class restaurants and nightclubs, Los Cabos is a coveted destination all year round.\n\nPueblo Bonito Pacifica\n\nPueblo Bonito Sunset Beach\n\nPueblo Bonito   \nMontecristo Estates Luxury Villas\n\nPueblo Bonito Los Cabos\n\nPueblo Bonito Rosé\n\nPueblo Bonito Mazatlán\n\nPueblo Bonito   \nEmerald Estates Luxury Villas\n\nPueblo Bonito   \nEmerald Bay\n\nPueblo Bonito Vantage San Miguel de Allende [...] Enjoy a day of retail therapy shopping in Cabo San Lucas. Find everything from upscale haute couture shopping at Puerto Paraiso and Luxury Avenue to locally made ceramics, textiles and jewelry sold in charming stores along Cabo San Lucas side streets. The downtown district of nearby San Jose del Cabo also offers unique shopping for souvenirs, home décor, and gifts.\n\n## Cabo San Lucas [...] The rugged El Arco rock formation erupts from the sea at the tip of the Baja Peninsula. Also known as Land's End, El Arco is a popular tourist attraction and the central focus of countless Cabo San Lucas vacation photos. A boat taxi ride around Land's End is the perfect way to see this famous natural attraction up close when you vacation in Cabo San Lucas. Or, stroll beneath the famous El Arco at low tide when a small sandbar is present.\n\n### Outdoor Zipline Adventure"
+    }
+  ],
+  "flights_serpapi": [
+    {
+      "airline": null,
+      "price": 321,
+      "url": "No link",
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "airline": null,
+      "price": 328,
+      "url": "No link",
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "airline": null,
+      "price": 328,
+      "url": "No link",
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    }
+  ],
+  "hotels_serpapi": [
+    {
+      "name": "Villa Del Palmar Beach Resort & Spa Cabo San Lucas",
+      "price_nightly": "$144",
+      "price_total": "$144$144$144$144$144$144$144$144$144$144",
+      "url": "https://cabo.villadelpalmar.com/?partner=6513&utm_source=google&utm_medium=organic&utm_campaign=GMBlisting"
+    },
+    {
+      "name": "Solmar Resort",
+      "price_nightly": "$127",
+      "price_total": "$127$127$127$127$127$127$127$127$127$127",
+      "url": "https://solmarresort.mx/?partner=10859&utm_source=google&utm_medium=organic&utm_campaign=GoogleMyBusiness"
+    },
+    {
+      "name": "Playa Grande Resort & Grand Spa",
+      "price_nightly": "$235",
+      "price_total": "$235$235$235$235$235$235$235$235$235$235",
+      "url": "https://playagranderesort.solmar.com/?partner=10859&utm_source=google&utm_medium=organic&utm_campaign=MyBusiness"
+    },
+    {
+      "name": "Hotel Riu Palace Cabo San Lucas",
+      "price_nightly": "$267",
+      "price_total": "$267$267$267$267$267$267$267$267$267$267",
+      "url": "https://www.riu.com/en/hotel/mexico/los-cabos/hotel-riu-palace-cabo-san-lucas?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=XCL"
+    },
+    {
+      "name": "Nobu Hotel Los Cabos",
+      "price_nightly": "$498",
+      "price_total": "$498$498$498$498$498$498$498$498$498$498",
+      "url": "https://www.nobuhotels.com/los-cabos/?utm_source=mybusiness&utm_medium=organic"
+    }
+  ],
+  "cars_serpapi": [
+    {
+      "company": "Cabo San Lucas Downtown Car Rental",
+      "url": "https://www.alamo.com/en/car-rental-locations/mx/cabo-san-lucas-downtown-kk56.html",
+      "snippet": "Alamo® Rent A Car has a variety of cars, SUVs, vans and trucks for rent at Cabo San Lucas Downtown. Reserve your car online today.",
+      "daily_price": null,
+      "total_price": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Rental Car in Cabo San Lucas with Enterprise Rent-A-Car",
+      "url": "https://enterprise.mx/rental-car-in-cabo-san-lucas",
+      "snippet": "We have one of the largest car fleet of the world. And Cabo San Lucas is no exception. You can filter by car type, by passenger capacity and transmission.",
+      "daily_price": null,
+      "total_price": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Cabo San Lucas car rentals from $5/day",
+      "url": "https://www.kayak.com/Cheap-Cabo-San-Lucas-Car-Rentals.12487.cars.ksp",
+      "snippet": "Looking for car rentals in Cabo San Lucas? Search prices from America Car Rental, CarWiz, Firefly, Fox, National and Thrifty. Latest prices: Economy $5/day.",
+      "daily_price": 5.0,
+      "total_price": 50.0,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Cabo San Lucas",
+      "url": "https://www.hertz.com/us/en/location/mexico/cabosanlucas/sjdc62",
+      "snippet": "Get all the information you need to rent a car in Cabo San Lucas when you book your next rental with Hertz at Cabo San Lucas - Plaza Jacinto Tamaral.",
+      "daily_price": null,
+      "total_price": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    },
+    {
+      "company": "Cabo San Lucas",
+      "url": "https://www.avis.com/en/locations/mx/cabo-san-lucas",
+      "snippet": "Address: Predio Paraiso Escondido S/N, Col Center, Cabo San Lucas, XX, 23410, Mexico. Phone: (52) 624-143-4607. Hours of Operation:.",
+      "daily_price": null,
+      "total_price": null,
+      "dates": {
+        "start": "2025-11-10",
+        "end": "2025-11-20"
+      }
+    }
+  ]
+}
