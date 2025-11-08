@@ -1,0 +1,11 @@
+pydantic
+python-dotenv
+requests
+fastapi
+uvicorn
+streamlit
+gradio
+pandas
+tavily-python
+pycountry
+google-generativeai
